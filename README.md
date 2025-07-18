@@ -1,1 +1,2 @@
-# wellness-studio-database
+# Designing a Database for Wellness Studio
+Designed a database system for a wellness studio, focusing on modeling the relationships between key entities such as services, subscription packages, members, classes, instructors, transactions, and bookings. An Entity Relationship (ER) Diagram was constructed to represent the logical structure of the system and visualize how the entities are interconnected. The implementation was carried out using Structured Query Language (SQL) with MySQL.
